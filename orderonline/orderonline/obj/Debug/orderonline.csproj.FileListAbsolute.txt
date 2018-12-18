@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\orderonline\orderonline\bin\Debug\orderonline.exe.config
+C:\Users\user\source\repos\orderonline\orderonline\bin\Debug\orderonline.exe
+C:\Users\user\source\repos\orderonline\orderonline\bin\Debug\orderonline.pdb
+C:\Users\user\source\repos\orderonline\orderonline\obj\Debug\orderonline.csprojAssemblyReference.cache
+C:\Users\user\source\repos\orderonline\orderonline\obj\Debug\orderonline.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\orderonline\orderonline\obj\Debug\orderonline.exe
+C:\Users\user\source\repos\orderonline\orderonline\obj\Debug\orderonline.pdb
